@@ -28,7 +28,7 @@ Kurulum
 
 Proje Dosyasını Klonlama
 
-git clone https://github.com/kullaniciAdiniz/online-restoran-sistemi.git
+
 cd online-restoran-sistemi
 
 Gereksinimler
